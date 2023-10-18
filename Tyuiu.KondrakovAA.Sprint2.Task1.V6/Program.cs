@@ -24,7 +24,7 @@ namespace Tyuiu.KondrakovAA.Sprint2.Task1.V6
             Console.Title = "Спринт #2 | Выполнил: Кондраков А.А. | СМАРТб-23-1";
             Console.WriteLine("***************************************************************************"); 
             Console.WriteLine("* Спринт #2                                                               *");
-            Console.WriteLine("* Тема: Добавление к решению итоговых проектов по спринту                 *");
+            Console.WriteLine("* Тема: Логические операции                                               *");
             Console.WriteLine("* Задание #1                                                              *");
             Console.WriteLine("* Вариант #6                                                              *");
             Console.WriteLine("* Выполнил: Кондраков Александр Артемович | СМАРТб-23-1                   *");
