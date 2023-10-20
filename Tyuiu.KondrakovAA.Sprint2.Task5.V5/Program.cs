@@ -17,7 +17,7 @@ namespace Tyuiu.KondrakovAA.Sprint2.Task5.V5
             Console.Title = "Спринт #2 | Выполнил: Кондраков А.А. | СМАРТб-23-1";
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #2                                                               *");
-            Console.WriteLine("* Тема: Тернарный оператор                                                *");
+            Console.WriteLine("* Тема: Оператор switch                                                   *");
             Console.WriteLine("* Задание #5                                                              *");
             Console.WriteLine("* Вариант #5                                                              *");
             Console.WriteLine("* Выполнил: Кондраков Александр Артемович | СМАРТб-23-1                   *");
